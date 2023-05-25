@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c0c9d7b-39ce-4446-9988-9e63363f95b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/a_basic_syntax_2/PrimitiveTypes_2_1.java" afterDir="false" />
+    <list default="true" id="0c0c9d7b-39ce-4446-9988-9e63363f95b6" name="Changes" comment="PrimitiveTypes_2_1_6">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic_syntax_2/primitive_types/PrimitiveTypes_2_1_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic_syntax_2/primitive_types/PrimitiveTypes_2_1_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic_syntax_2/primitive_types/PrimitiveTypes_2_1_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/a_basic_syntax_2/type_conversion/TypeConversion_2_2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a_basic_syntax_2/PrimitiveTypes_2_1_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a_basic_syntax_2/primitive_types/PrimitiveTypes_2_1_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2QIccYLw8O9AyMEsNk0DSMfqiJ3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "onboarding.tips.debug.path": "/home/leutnant/IdeaProjects/JavaStepik/src/Main.java"
   }
 }]]></component>
@@ -48,6 +53,26 @@
       <option name="presentableId" value="Default" />
       <updated>1685044618904</updated>
     </task>
+    <task id="LOCAL-00001" summary="PrimitiveTypes_2_1">
+      <created>1685045495825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685045495825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PrimitiveTypes_2_1_6">
+      <created>1685045562961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685045562961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PrimitiveTypes_2_1" />
+    <MESSAGE value="PrimitiveTypes_2_1_6" />
+    <option name="LAST_COMMIT_MESSAGE" value="PrimitiveTypes_2_1_6" />
   </component>
 </project>
