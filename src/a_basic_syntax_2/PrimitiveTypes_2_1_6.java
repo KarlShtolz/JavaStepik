@@ -19,7 +19,7 @@ package a_basic_syntax_2;
  * Sample Output 3:
  * true
  */
-public class PrimitiveTypes_2_1 {
+public class PrimitiveTypes_2_1_6 {
     public static boolean booleanExpression(boolean a, boolean b, boolean c, boolean d) {
         return ((!a)&(!b)&c&d)^((!a)&b&(!c)&d)^((!a)&b&c&(!d))^(a&(!b)&(!c)&d)^(a&(!b)&c&(!d))^(a&b&(!c)&(!d));
     }
